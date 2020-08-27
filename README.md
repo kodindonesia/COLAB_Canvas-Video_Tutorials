@@ -1,1 +1,1 @@
-# COLAB_Canvas-Video_Tutorials
+# COLAB Canvas and Video Tutorials
